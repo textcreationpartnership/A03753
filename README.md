@@ -35,13 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A
-SERMON,
-PREACHED AT
-THE FVNERALL
-of the Right VVorshipfull
-Sir Robert Boteler
-Knight, of Wood-Hall
+
 1. ❧ TO THE RIGHT
 Worshipfull and truely vertuous,
 the Lady FRANCIS BOTELER, late
